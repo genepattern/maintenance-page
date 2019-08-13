@@ -1,0 +1,29 @@
+.footer {
+    height: 30px;
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: normal;
+    color: #666666;
+    text-decoration: none;
+    background-color: #CED8DD;
+    background-image: url(assets/bottom-band.png);
+    background-repeat: repeat-x;
+    vertical-align: middle;
+    padding: 10px;
+    border-top: solid 1px #A3B1DA;
+}
+
+.topband {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 48px;
+    z-index: 3;
+    font-size: 10px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-image: url(/assets/header.png);
+    background-repeat: no-repeat;
+}
